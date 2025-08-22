@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.study</groupId>
-    <artifactId>study_elasticsearch</artifactId>
+    <artifactId>elasticsearch-java-study</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
